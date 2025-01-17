@@ -27,11 +27,11 @@
 
 <h3 align="center" style="background-color: #2f2f2f; padding: 10px; border-radius: 10px; color: #b3b3b3;">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+ <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Unreal_Engine_Logo.svg" alt="Unreal Engine" width="50" height="50"/>
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/73382969/192104803-53c94f69-2815-462a-8c22-635b53b9125e.png" alt="Unreal Engine" width="50" height="50"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="50" height="50"/>
@@ -60,6 +60,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash28s&custom_title=Ashutosh's%20Contribution%20Graph&bg_color=1e1e1e&color=b3b3b3&line=b3b3b3&point=808080&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
+
+<!-- Added "More Stats" -->
+<h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #d4d4d4;">More Stats:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash28s&theme=2077" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ash28s&theme=2077" alt="Productive Time">
+</p>
+
 
 ### 💖 Support Me:
 <p align="center">
