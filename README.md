@@ -1,6 +1,6 @@
 <!-- Header with Cool GIF -->
-<h1 align="center" style="font-size: 48px; color: #808080; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #2f2f2f; padding: 15px; border-radius: 10px; color: #b3b3b3;">A passionate Game and VR Developer</h3>
+<h1 align="center" style="font-size: 48px; color: #808080; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Ashutosh Senapati</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #2f2f2f; padding: 15px; border-radius: 10px; color: #b3b3b3;">A passionate Game and VR Developer and Java Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ash28s&label=Profile%20views&color=808080&style=flat" alt="Ash28s" />
@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B3B3B3&size=22&center=true&vCenter=true&width=550&lines=Game+Developer;Virtual+Reality+Enthusiast;Building+Immersive+Worlds;Always+Exploring+New+Technologies;Open+Source+Collaborator" alt="Typing SVG" />
 </div>
 
-<p align="center">💬 Ask me about <strong style="color:#b3b3b3;">Game Development | VR Development</strong></p>
+<p align="center">💬 Ask me about <strong style="color:#b3b3b3;">Game Development | VR Development | Java Developer</strong></p>
 <p align="center">📫 Reach me at <strong><a href="mailto:ashutoshsena2813@gmail.com" style="color: #b3b3b3;">ashutoshsena2813@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #2f2f2f; padding: 10px; border-radius: 10px; color: #b3b3b3;">Connect with me:</h3>
