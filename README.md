@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">💬 Ask me about <strong style="color:#b3b3b3;">Game Development | VR Development</strong></p>
-<p align="center">📫 Reach me at <strong><a href="mailto:ashutoshsena2813@gmail.com" style="color: #b3b3b3;">ashutoshvrdev@gmail.com</a></strong></p>
+<p align="center">📫 Reach me at <strong><a href="mailto:ashutoshsena2813@gmail.com" style="color: #b3b3b3;">ashutoshsena2813@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #2f2f2f; padding: 10px; border-radius: 10px; color: #b3b3b3;">Connect with me:</h3>
 <p align="center">
