@@ -17,7 +17,7 @@
 
 <h3 align="center" style="background-color: #2f2f2f; padding: 10px; border-radius: 10px; color: #b3b3b3;">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ashutosh-vr-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutosh-senapati-55477b252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/ashutoshvrdev" target="_blank">
