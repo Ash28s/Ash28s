@@ -121,6 +121,7 @@
 </p>
 
 
+<!--
 ### 💖 Support Me:
 <p align="center">
   <a href="https://www.buymeacoffee.com/ashutoshvr" target="_blank">
@@ -130,3 +131,4 @@
     <img src="https://img.shields.io/badge/Kofi-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </p>
+-->
