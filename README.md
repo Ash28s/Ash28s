@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B3B3B3&size=22&center=true&vCenter=true&width=550&lines=Game+Developer;Virtual+Reality+Enthusiast;Building+Immersive+Worlds;Always+Exploring+New+Technologies;Open+Source+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B3B3B3&size=22&center=true&vCenter=true&width=550&lines=Game+Developer;Virtual+Reality+Enthusiast;Building+Immersive+Worlds;Always+Exploring+New+Technologies;Open+Source+Collaborator; Java+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">💬 Ask me about <strong style="color:#b3b3b3;">Game Development | VR Development | Java Development</strong></p>
