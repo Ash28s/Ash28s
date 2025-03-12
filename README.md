@@ -1,5 +1,5 @@
 <!-- Header with Cool GIF -->
-<h1 align="center" style="font-size: 48px; color: #808080; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Ashutosh aka Ash </h1>
+<h1 align="center" style="font-size: 48px; color: #808080; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Ashutosh </h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #2f2f2f; padding: 15px; border-radius: 10px; color: #b3b3b3;">A passionate Game, XR and Java Developer</h3>
 
 <p align="center">
