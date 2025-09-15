@@ -61,8 +61,21 @@
   </p>
   <blockquote style="color:#7BF7CA; font-size:13px; margin:4px 0 28px; border-left:3px solid #5DAA5B; padding:6px 10px; background:#121712;">Motto: Execute. Iterate. Optimize. Immerse.</blockquote>
 
+   <!-- SECTOR B -->
+  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR B // LIVE INTEL</h3>
+  <div align="center" style="margin-bottom:14px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ash28s&show_icons=true&bg_color=0C0F0C&title_color=5DAA5B&text_color=C9A452&icon_color=7BF7CA&hide_border=true" height="150" alt="Core Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ash28s&layout=compact&bg_color=0C0F0C&title_color=5DAA5B&text_color=C9A452&icon_color=7BF7CA&hide_border=true" height="150" alt="Languages">
+  </div>
+  <div align="center" style="margin-bottom:14px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ash28s&theme=transparent&hide_border=true&ring=5DAA5B&fire=7BF7CA&currStreakNum=C9A452&dates=4A544A&sideNums=C9A452&currStreakLabel=5DAA5B&sideLabels=5DAA5B" height="155" alt="Streak">
+  </div>
+  <div align="center" style="margin-bottom:28px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash28s&custom_title=Activity%20Grid&bg_color=0C0F0C&color=5DAA5B&line=7BF7CA&point=C9A452&area=true&hide_border=true" alt="Activity Graph">
+  </div>
+
   <!-- SECTOR B -->
-  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR B // PRIORITY OPERATIONS</h3>
+  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR C // PRIORITY OPERATIONS</h3>
   <table style="width:100%; border-collapse:collapse; font-size:13px;">
     <thead>
       <tr style="background:#121712; color:#7BF7CA;">
@@ -107,7 +120,7 @@
   </table>
   
   <!-- SECTOR C (TABLE VERSION) -->
-  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:28px 0 12px;">SECTOR C // TACTICAL LOADOUT</h3>
+  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:28px 0 12px;">SECTOR D // TACTICAL LOADOUT</h3>
   <table style="width:100%; border-collapse:collapse; font-size:13px;">
     <thead>
       <tr style="background:#121712; color:#7BF7CA;">
@@ -172,7 +185,7 @@
   </div>
 
   <!-- SECTOR D -->
-  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR D // STACK ICON STRIP</h3>
+  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR E // STACK ICON STRIP</h3>
   <p align="center" style="margin:10px 0 26px;">
     <!-- Core -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" alt="Java">
@@ -196,19 +209,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="42" alt="MATLAB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="54" alt="AWS">
   </p>
-
-  <!-- SECTOR E -->
-  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR E // LIVE INTEL</h3>
-  <div align="center" style="margin-bottom:14px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ash28s&show_icons=true&bg_color=0C0F0C&title_color=5DAA5B&text_color=C9A452&icon_color=7BF7CA&hide_border=true" height="150" alt="Core Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ash28s&layout=compact&bg_color=0C0F0C&title_color=5DAA5B&text_color=C9A452&icon_color=7BF7CA&hide_border=true" height="150" alt="Languages">
-  </div>
-  <div align="center" style="margin-bottom:14px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ash28s&theme=transparent&hide_border=true&ring=5DAA5B&fire=7BF7CA&currStreakNum=C9A452&dates=4A544A&sideNums=C9A452&currStreakLabel=5DAA5B&sideLabels=5DAA5B" height="155" alt="Streak">
-  </div>
-  <div align="center" style="margin-bottom:28px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash28s&custom_title=Activity%20Grid&bg_color=0C0F0C&color=5DAA5B&line=7BF7CA&point=C9A452&area=true&hide_border=true" alt="Activity Graph">
-  </div>
 
   <!-- SECTOR F -->
   <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 10px;">SECTOR F // QUICK ASK ZONE</h3>
