@@ -105,11 +105,7 @@
       </tr>
     </tbody>
   </table>
-  <p style="font-size:11.5px; color:#4A544A; margin:6px 0 28px;">Shields (optional):<br>
-    <code>https://img.shields.io/github/last-commit/Ash28s/MagnetPuzzleGame?label=Magnet+Ops&color=5DAA5B</code><br>
-    <code>https://img.shields.io/github/last-commit/Aditya-chaki/TileQuest?label=TileQuest&color=C9A452</code>
-  </p>
-
+  
   <!-- NEW SECTOR C REPLACEMENT -->
   <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 12px;">SECTOR C // TACTICAL LOADOUT</h3>
 
