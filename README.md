@@ -106,35 +106,57 @@
     </tbody>
   </table>
   
-  <!-- NEW SECTOR C REPLACEMENT -->
-  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:0 0 12px;">SECTOR C // TACTICAL LOADOUT</h3>
-
-  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-bottom:22px;">
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">Primary Engine</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Unity (C# Systems, Physics, Interaction Loops)</span>
-    </div>
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">Secondary Engine</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Unreal (Blueprint Familiar, Expanding C++)</span>
-    </div>
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">Core Language</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Java (Architecture / Data Flow / Simulation)</span>
-    </div>
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">XR Toolkit</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Interaction Modules • Ray / Direct • Feedback</span>
-    </div>
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">Systems</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Event Bus • State Controllers • Timing Loops</span>
-    </div>
-    <div style="flex:1 1 200px; min-width:200px; background:#121712; padding:10px 12px; border:1px solid #1B211B; border-radius:10px;">
-      <strong style="color:#7BF7CA;">Asset Flow</strong><br>
-      <span style="color:#C9A452; font-size:12px;">Blender → Engine Optimization</span>
-    </div>
-  </div>
+  <!-- SECTOR C (TABLE VERSION) -->
+  <h3 style="color:#5DAA5B; letter-spacing:1px; margin:28px 0 12px;">SECTOR C // TACTICAL LOADOUT</h3>
+  <table style="width:100%; border-collapse:collapse; font-size:13px;">
+    <thead>
+      <tr style="background:#121712; color:#7BF7CA;">
+        <th align="left" style="padding:6px 8px; border:1px solid #1B211B;">Module</th>
+        <th align="left" style="padding:6px 8px; border:1px solid #1B211B;">Focus / Capability</th>
+        <th align="left" style="padding:6px 8px; border:1px solid #1B211B;">Core Tools</th>
+        <th align="left" style="padding:6px 8px; border:1px solid #1B211B;">Readiness</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">Primary Engine</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Gameplay systems, interaction loops, physics feel</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Unity • C# • Scriptable Objects</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[███████░░░]</code> Adv</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">Secondary Engine</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Blueprint prototyping, early C++ expansion</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Unreal • Blueprints • Components</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[█████░░░░░]</code> Growing</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">Core Language</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Architecture, simulation loops, data flow patterns</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Java • OOP • Collections • Streams</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[███████░░░]</code> Adv</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">XR Toolkit</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Interaction prototypes, ray/direct input, feedback</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Unity XR • Interaction APIs</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[█████░░░░░]</code> Iterating</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">Systems Layer</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Event bus, state graphs, timing orchestration</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Events • Coroutines • Messaging</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[██████░░░░]</code> Strong</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 8px; border:1px solid #1B211B; color:#5DAA5B;">Asset Flow</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Model prep, optimization, integration pipeline</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;">Blender • Import Profiles • Compression</td>
+        <td style="padding:6px 8px; border:1px solid #1B211B;"><code>[██████░░░░]</code> Strong</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="font-size:11px; color:#4A544A; margin:6px 0 30px;">Readiness bars are illustrative (manual updates).</p>
 
   <!-- MISSION STATUS -->
   <div style="background:#121712; padding:14px 16px 18px; border:1px solid #1B211B; border-radius:12px; margin-bottom:34px;">
@@ -200,7 +222,7 @@
   <div>
     <a href="mailto:ashutoshsena2813@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPS%20LINK-5DAA5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
     <a href="https://www.linkedin.com/in/ashutosh-senapati-55477b252" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-C9A452?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://instagram.com/ashutoshvrdev" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-VISUALS-7BF7CA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://instagram.com/ashu_tosh_28" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-VISUALS-7BF7CA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </div>
 
   <details style="margin-top:26px; text-align:left;">
